@@ -18,7 +18,7 @@ indicate if changes were made.
 proprietary and is not open source.** It is not distributed through this repository, and
 no license grant in this file extends to it. Nothing published here — including the public
 API specification referenced from [`docs/architecture-overview.md`](docs/architecture-overview.md)
-— grants a right to reproduce, reverse-engineer, or redistribute the product itself.
+— grants a right to reproduce, reverse-engineer, or resell the product itself.
 
 ## Templates and config files
 
