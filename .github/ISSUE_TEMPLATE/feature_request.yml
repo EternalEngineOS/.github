@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest something you wish EternalEngine did.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Customers can also post feature requests directly in-app, in ThreadRealm, where
+        the product team already triages them — that may get faster visibility than
+        a GitHub issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Any workarounds you're using today?
+  - type: input
+    id: plan
+    attributes:
+      label: What plan are you on? (optional)
+      placeholder: Free / Basic / Team / Pro / Business / Enterprise
