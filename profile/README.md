@@ -93,6 +93,14 @@ join the catalog at no extra charge as they reach launch quality.
 
 Full feature tour: [eternalengineos.io/features](https://eternalengineos.io/features). Plans and limits: [eternalengineos.io/pricing](https://eternalengineos.io/pricing). Every app, one paragraph each: [docs/apps](https://github.com/EternalEngineOS/.github/blob/main/docs/apps/README.md).
 
+## Repositories
+
+| Repository | What it is |
+|---|---|
+| [ee-mcp-public](https://github.com/EternalEngineOS/ee-mcp-public) | Read-only Model Context Protocol server for the public API. Runs on your machine with your own API key. MIT. |
+| [openapi](https://github.com/EternalEngineOS/openapi) | The public read-only OpenAPI 3.1 specification the MCP server is generated from. CC BY 4.0. |
+| [.github](https://github.com/EternalEngineOS/.github) | This profile, the public documentation, changelog, roadmap and the policies that apply across the organization. |
+
 ## How we build
 
 A small team runs a governed fleet of AI agents under human review. Every change passes an
