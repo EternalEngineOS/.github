@@ -4,7 +4,8 @@ EternalEngine welcomes coordinated disclosure from security researchers.
 
 ## Reporting a vulnerability
 
-Email **security@eternalengineos.io** with reproduction steps. Good-faith research reported
+Email **EE@eternalengineos.io** with the subject line `Security report` and your reproduction
+steps. We acknowledge every report within two business days. Good-faith research reported
 through this channel will never be met with legal action.
 
 Do not open a public GitHub issue for a suspected vulnerability — issues in this repository
@@ -29,14 +30,12 @@ process is built around:
 | Medium | 7 days |
 | Low | 30 days |
 
-## Known documentation drift
+## Scope
 
-Our published `security.txt` (RFC 9116, at `/.well-known/security.txt` on the marketing
-site) currently lists `security@eternalengine.io` and `www.eternalengine.io` — the wrong
-domain (missing the `os`). The correct, monitored addresses are **security@eternalengineos.io**
-(this file) and **info@eternalengineos.io** (the contact published on the site's
-[security page](https://eternalengineos.io/security)). This is noted here so a researcher
-who finds the stale file is not misdirected; the site file is being corrected separately.
+In scope: `eternalengineos.io`, `app.eternalengineos.io`, `scrollforge.io`, the public API and
+the MCP server described on the [developers page](https://eternalengineos.io/developers).
+Out of scope: denial of service, social engineering of staff or customers, and findings on
+third-party services we do not operate (payment processing is handled by Stripe).
 
 ## More detail
 

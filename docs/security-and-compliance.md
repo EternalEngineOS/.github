@@ -6,7 +6,7 @@ source of truth; this document exists so the same facts are discoverable from Gi
 ## Data encryption
 
 - TLS 1.3 protects every connection in transit.
-- Backups and cold-storage archives are encrypted (X25519/age, restic).
+- Backups and cold-storage archives are encrypted.
 - Secrets live in an encrypted vault — never in code or config.
 
 ## Tenant isolation

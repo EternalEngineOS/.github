@@ -98,7 +98,7 @@ policy, and roadmap that describe it from the outside.
     🌐 <a href="https://eternalengineos.io">eternalengineos.io</a> ·
     🚀 <a href="https://app.eternalengineos.io">app.eternalengineos.io</a> ·
     ✉️ <a href="mailto:EE@eternalengineos.io">EE@eternalengineos.io</a> ·
-    🔒 <a href="mailto:info@eternalengineos.io?subject=Security%20vulnerability%20report">Security</a> ·
+    🔒 <a href="https://github.com/EternalEngineOS/.github/blob/main/SECURITY.md">Security policy</a> ·
     🐦 <a href="https://twitter.com/EternalEngineOS">@EternalEngineOS</a>
   </sub>
 </p>
