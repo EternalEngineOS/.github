@@ -1,7 +1,20 @@
-# .github — EternalEngine community health & org profile
+# EternalEngine on GitHub
 
-This repository is the EternalEngine GitHub organization's **default community-health
-repository**. GitHub reads two things from it automatically:
+EternalEngine is the operating system for service businesses: CRM, quotes, invoicing,
+payments, scheduling, email, projects and an AI assistant under one login and one bill.
+The product is proprietary; this repository is where the organization publishes everything
+an outsider needs — documentation, policies, the changelog and the roadmap.
+
+**Start here**
+
+- New to EternalEngine: the [organization profile](profile/README.md) or [eternalengineos.io](https://eternalengineos.io).
+- Evaluating: [app catalog](docs/apps/README.md) · [pricing](docs/pricing.md) · [architecture overview](docs/architecture-overview.md) · [security and compliance](docs/security-and-compliance.md) · [FAQ](docs/faq.md).
+- Researcher: [SECURITY.md](SECURITY.md).
+- Customer with a question: [SUPPORT.md](SUPPORT.md) or [Discussions](https://github.com/orgs/EternalEngineOS/discussions).
+
+## Why this repository is named `.github`
+
+GitHub reads two things from a repository with this name automatically:
 
 1. **The organization profile** — [`profile/README.md`](profile/README.md) is rendered on
    [github.com/EternalEngineOS](https://github.com/EternalEngineOS) whenever a repo named
@@ -12,11 +25,6 @@ repository**. GitHub reads two things from it automatically:
    [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) and
    [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) apply to every
    public repository in the organization that does not define its own.
-
-The EternalEngine product itself — the application code for ClientForge, PayGate,
-PostFrame, and the rest of the platform — is closed source and lives in a private
-repository. What is public here is documentation, policy, and process: the material a
-customer, integrator, or security researcher needs without needing product-code access.
 
 ## What's in this repo
 
@@ -35,7 +43,6 @@ customer, integrator, or security researcher needs without needing product-code 
 | [`docs/security-and-compliance.md`](docs/security-and-compliance.md) | Encryption, tenant isolation, backups, data requests |
 | [`docs/pricing.md`](docs/pricing.md) | The plan ladder, mirrored from the pricing page |
 | [`docs/faq.md`](docs/faq.md) | Frequently asked questions |
-| [`REPO-SETTINGS.md`](REPO-SETTINGS.md) | The GitHub metadata this org/repo should carry (applied by maintainers, not by CI) |
 
 ## Key links
 
