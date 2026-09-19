@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation fix
+    url: https://github.com/EternalEngineOS/.github/blob/main/CONTRIBUTING.md
+    about: Found a typo or a wrong statement in a doc in this repo? Open a pull request directly instead of an issue.
+  - name: Security vulnerability
+    url: https://github.com/EternalEngineOS/.github/security/policy
+    about: Do not open a public issue for a vulnerability — see SECURITY.md for the coordinated-disclosure channel.
+  - name: Support
+    url: https://eternalengineos.io/contact
+    about: General support, sales, or account questions — email info@eternalengineos.io or use the contact form.
+  - name: System status
+    url: https://eternalengineos.io/status
+    about: Check whether an issue you're seeing is a known, ongoing incident before filing.
