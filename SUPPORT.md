@@ -14,8 +14,8 @@
   or use the [contact form](https://eternalengineos.io/contact).
 - **Security reports** — see [`SECURITY.md`](SECURITY.md); do not use this channel for
   vulnerability reports.
-- **Community** — join `discord.gg/EternalEngineOS` for real-time discussion, or use
-  ThreadRealm inside the app once you have an account.
+- **Community** — ask in [GitHub Discussions](https://github.com/orgs/EternalEngineOS/discussions),
+  or use ThreadRealm inside the app once you have an account.
 
 ## Response time
 
