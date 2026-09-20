@@ -131,9 +131,9 @@ the [roadmap](https://github.com/EternalEngineOS/.github/blob/main/ROADMAP.md) a
   <sub>
     <a href="https://eternalengineos.io">eternalengineos.io</a> ·
     <a href="https://app.eternalengineos.io">app.eternalengineos.io</a> ·
-    <a href="mailto:EE@eternalengineos.io">EE@eternalengineos.io</a> ·
+    <a href="mailto:info@eternalengineos.io">info@eternalengineos.io</a> ·
     <a href="https://github.com/EternalEngineOS/.github/blob/main/SECURITY.md">Security policy</a> ·
-    <a href="https://twitter.com/EternalEngineOS">@EternalEngineOS</a>
+    <a href="https://x.com/EternalEngineOS">@EternalEngineOS</a>
   </sub>
 </p>
 <p align="center"><sub>© 2026 EternalEngine LLC. All rights reserved.</sub></p>

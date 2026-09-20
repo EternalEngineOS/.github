@@ -52,7 +52,7 @@ GitHub reads two things from a repository with this name automatically:
 - Developers (API & MCP) — <https://eternalengineos.io/developers>
 - Status — <https://eternalengineos.io/status>
 - Changelog — <https://eternalengineos.io/changelog>
-- Contact — <mailto:EE@eternalengineos.io>
+- Contact — <mailto:info@eternalengineos.io>
 
 ---
 

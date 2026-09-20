@@ -4,7 +4,7 @@ EternalEngine welcomes coordinated disclosure from security researchers.
 
 ## Reporting a vulnerability
 
-Email **EE@eternalengineos.io** with the subject line `Security report` and your reproduction
+Email **info@eternalengineos.io** with the subject line `Security report` and your reproduction
 steps. We acknowledge every report within two business days. Good-faith research reported
 through this channel will never be met with legal action.
 
