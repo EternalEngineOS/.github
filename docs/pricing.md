@@ -1,8 +1,10 @@
 # Pricing
 
 Mirrored from [eternalengineos.io/pricing](https://eternalengineos.io/pricing) — that page
-is the source of truth. Every paid plan carries a 30-day free trial (card required, once
-per account, cancel before trial end to pay $0). Annual billing saves 20%.
+is the source of truth. Basic, Team, Pro and Business carry a 30-day free trial. Basic needs no
+card for a first-time email: if no card is added by day 31, the workspace moves to the Free plan,
+data intact, never charged. Team, Pro and Business ask for a card at signup; cancel before the
+trial ends to pay $0. Annual billing saves 20%.
 
 | | Free | Basic | Team | Pro | Business | Enterprise |
 |---|---|---|---|---|---|---|

@@ -21,8 +21,10 @@ Yes. Free is one person, the full CRM, 5 invoices and 5 estimates a month, and n
 required, with no time limit.
 
 **How does the 30-day free trial work?**
-Create an account on any paid plan and your first 30 days are free. A card is required at
-signup so your workspace continues without interruption, but nothing is charged until the
+Create an account on any paid plan and your first 30 days are free. **Basic** needs no card for a
+first-time email: if you haven't added one by day 31, your workspace moves to the Free plan with
+your data intact and nothing is charged. **Team, Pro and Business** ask for a card at signup so the
+workspace continues without interruption, but nothing is charged until the
 trial ends — you're emailed three days before that date, and you can cancel any time before
 then from Settings → Billing to pay $0.
 
