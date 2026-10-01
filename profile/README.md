@@ -32,12 +32,12 @@ EternalEngine replaces the stack a service business assembles from six or seven 
 one platform. A plumber, an electrician, a landscaper, a cleaning company or a consultancy
 signs in once and gets a CRM, quotes that turn into invoices, card and bank payments, a
 booking page, a full email system, projects and crews, documents and signatures, and an AI
-assistant that already knows the business. Seventeen applications ship today; add-on apps
-join the catalog at no extra charge as they reach launch quality.
+assistant that already knows the business. Twenty-three applications ship today, with 17 more
+coming soon at no extra charge as they reach launch quality.
 
 | At a glance | |
 |---|---|
-| Applications | 17 installable, one login, one subscription |
+| Applications | 23 available today, 17 coming soon · one login, one subscription |
 | Price | Free at $0 · Basic $9.95/mo · Team $49 · Pro $99 · Business $199 · Enterprise by contact |
 | Payments | Built in, on Stripe, at one all-in rate |
 | Reliability | 99.9% uptime target, public [status page](https://eternalengineos.io/status) |

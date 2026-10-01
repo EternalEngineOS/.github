@@ -1,7 +1,7 @@
 # App Catalog
 
-EternalEngine ships 17 apps at launch under one login and one subscription — plus a growing
-catalog of add-on apps that install at no extra charge as they reach launch readiness. Every
+EternalEngine ships 23 apps today under one login and one subscription, with 17 more coming
+soon — each installs at no extra charge as it reaches launch readiness. Every
 app's full feature page is linked below.
 
 ## Universal — included on every plan
@@ -54,7 +54,7 @@ Some capabilities cut across multiple apps and have their own overview page on t
 
 ## More apps, coming as they graduate
 
-Beyond the 17 launch apps, our in-app store lists additional apps that install at no extra
+Beyond the 23 apps available today, our in-app store lists 17 more that install at no extra
 charge as each reaches launch readiness — visible today so you can read what they do. See
 the full, current list on [eternalengineos.io/features](https://eternalengineos.io/features).
 
