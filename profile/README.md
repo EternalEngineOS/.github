@@ -39,7 +39,7 @@ coming soon at no extra charge as they reach launch quality.
 |---|---|
 | Applications | 23 available today, 17 coming soon · one login, one subscription |
 | Price | Free at $0 · Basic $9.95/mo · Team $49 · Pro $99 · Business $199 · Enterprise by contact |
-| Payments | Built in, on Stripe, at one all-in rate |
+| Payments | Built in via PayGate, at one all-in rate |
 | Reliability | 99.9% uptime target, public [status page](https://eternalengineos.io/status) |
 | Developers | Read-only public API and an MCP server for AI agents — [docs](https://eternalengineos.io/developers) |
 | Source | The product is proprietary; this organization publishes the documentation, policies and changelog |
